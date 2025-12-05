@@ -1,6 +1,6 @@
 <?php
 include "klas.php";
-$ta = new ta();
+$ta = new notivikasi();
 ?>
 <!DOCTYPE html>
 <html lang="id">
@@ -355,5 +355,6 @@ $ta = new ta();
     </main>
   </div>
 </body>
+
 
 </html>
